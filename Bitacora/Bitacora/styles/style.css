@@ -1,0 +1,43 @@
+html{ 
+
+    font-size:10px;/*px quiere decir"pixeles":el tamaño de la fuente base es ahora de 10 pixeles de altura*/ 
+    font-family:"Open Sans",sans-serif;/*Este debe ser el resto del resultado que obtuviste de google fonts*/ 
+
+} 
+
+h1 { 
+    font-size:35px;   /*para cambiar el tamaño del titulo */
+    text-align:center; /*para centrar el titulo */
+
+} 
+
+p,li { 
+    font-size: 15px;  /*para cambiar el tamaño de letra de la lectura */
+    line-height:2; 
+    letter-spacing: 1px;
+     
+} 
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background: linear-gradient(150deg, #fdfdfd, #c6d0e07a );
+    height: 100vh;
+}
+
+h3 { 
+    font-size:30px;   /*para cambiar el tamaño del titulo */
+    text-align:center; /*para centrar el titulo */
+
+} 
+
+h2 { 
+    font-size:20px;   /*para cambiar el tamaño del titulo */
+    text-align:right;
+} 
+
+.contenedor {
+    margin-top: 100px;
+    display: flex;
+    background-color: rgba(28, 56, 179, 0.155);
+    padding: 25px;
+ }
