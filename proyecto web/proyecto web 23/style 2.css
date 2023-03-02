@@ -1,0 +1,36 @@
+h1 { 
+    font-size:35px;   /*para cambiar el tamaño del titulo */
+    text-align:center; /*para centrar el titulo */
+
+} 
+
+h3 { 
+    font-size:30px;   /*para cambiar el tamaño del titulo */
+    text-align:center; /*para centrar el titulo */
+
+} 
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background: linear-gradient(150deg, #fdfdfd, #c6d0e07a );
+    height: 100vh;
+}
+
+h2 { 
+    font-size:20px;   /*para cambiar el tamaño del titulo */
+    text-align:right;
+} 
+
+.contenedor {
+    margin-top: 100px;
+    display: flex;
+    background-color: rgba(28, 56, 179, 0.155);
+    padding: 25px;
+ }
+
+ p,li { 
+    font-size: 50px;  /*para cambiar el tamaño de letra de la lectura */
+    line-height:2; 
+    letter-spacing: 1px;
+     
+} 
